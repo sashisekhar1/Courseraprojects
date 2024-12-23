@@ -1,4 +1,6 @@
 mkdir copro
 cd copro
 git init
-touch 
+touch DataScienceEcosystem
+git add DataScienceEcosystem
+git 
